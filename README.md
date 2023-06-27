@@ -1,0 +1,2 @@
+# SORTSAVVY
+Customized Email Categorizer
